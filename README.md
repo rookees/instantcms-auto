@@ -10,14 +10,18 @@ instantcms-auto
 - Возможность задавать вопросы продавцу(есть выбор области видимости вопроса)
 - и многие другие возможности, которые так не описать
 
-![alt tag](https://raw.githubusercontent.com/knetesin/instantcms-auto/master/images/1.png)
-![alt tag](https://raw.githubusercontent.com/knetesin/instantcms-auto/master/images/2.png)
-![alt tag](https://raw.githubusercontent.com/knetesin/instantcms-auto/master/images/3.png)
-![alt tag](https://raw.githubusercontent.com/knetesin/instantcms-auto/master/images/4.png)
-![alt tag](https://raw.githubusercontent.com/knetesin/instantcms-auto/master/images/5.png)
-![alt tag](https://raw.githubusercontent.com/knetesin/instantcms-auto/master/images/6.png)
-![alt tag](https://raw.githubusercontent.com/knetesin/instantcms-auto/master/images/7.png)
-![alt tag](https://raw.githubusercontent.com/knetesin/instantcms-auto/master/images/8.png)
+![main](https://raw.githubusercontent.com/knetesin/instantcms-auto/master/images/main.png)
+![searchfilter](https://raw.githubusercontent.com/knetesin/instantcms-auto/master/images/searchfilter.png)
+![geo](https://raw.githubusercontent.com/knetesin/instantcms-auto/master/images/geo.png)
+![uplphoto](https://raw.githubusercontent.com/knetesin/instantcms-auto/master/images/uplphoto.png)
+![show](https://raw.githubusercontent.com/knetesin/instantcms-auto/master/images/show.png)
+Настройки:
+![cab-list](https://raw.githubusercontent.com/knetesin/instantcms-auto/master/images/cab-list.png)
+![cfg-main](https://raw.githubusercontent.com/knetesin/instantcms-auto/master/images/cfg-main.png)
+![cfg-ad](https://raw.githubusercontent.com/knetesin/instantcms-auto/master/images/cfg-ad.png)
+![cfg-img](https://raw.githubusercontent.com/knetesin/instantcms-auto/master/images/cfg-img.png)
+![cfg-geo](https://raw.githubusercontent.com/knetesin/instantcms-auto/master/images/cfg-geo.png)
+![cfg-bil](https://raw.githubusercontent.com/knetesin/instantcms-auto/master/images/cfg-bil.png)
 
 
 По вопросам пишите k.netesin@gmail.com
