@@ -15,8 +15,8 @@ instantcms-auto
 ![geo](https://raw.githubusercontent.com/knetesin/instantcms-auto/master/images/geo.png)
 ![uplphoto](https://raw.githubusercontent.com/knetesin/instantcms-auto/master/images/uplphoto.png)
 ![show](https://raw.githubusercontent.com/knetesin/instantcms-auto/master/images/show.png)
-Настройки:
 ![cab-list](https://raw.githubusercontent.com/knetesin/instantcms-auto/master/images/cab-list.png)
+Настройки:
 ![cfg-main](https://raw.githubusercontent.com/knetesin/instantcms-auto/master/images/cfg-main.png)
 ![cfg-ad](https://raw.githubusercontent.com/knetesin/instantcms-auto/master/images/cfg-ad.png)
 ![cfg-img](https://raw.githubusercontent.com/knetesin/instantcms-auto/master/images/cfg-img.png)
