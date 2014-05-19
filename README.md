@@ -1,0 +1,2 @@
+instantcms-auto
+===============
